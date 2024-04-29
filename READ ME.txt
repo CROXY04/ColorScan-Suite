@@ -1,0 +1,16 @@
+ColorScan Suite 2022® V1.0.1
+
+THIS IS EARLY SOFTWARE
+Not every function is ready for the mass market and doesn't work or scale properly
+A Restart of the Program should solve most of the problems
+For further help contact the Developers
+
+To start the application:
+1. Run the ColorScan.exe file
+2. You'll have two languages to chose from
+3. When selected you can chose the different tools included in your version of ColorScan as well as be able to read the impressum
+
+ColorCam - The tool ColorCam is capable of opening the webcam and when double clicked on a pixel, it shows the RGB values with it respective names.
+
+ColorPic - The tool ColorPic is capable of opening png and jpg files. Which then can be used to get RGB values and its name when double clicked.
+
