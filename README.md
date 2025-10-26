@@ -104,7 +104,7 @@ Beiträge sind jederzeit **willkommen**\! Wenn Sie Fehler melden, neue Funktione
 
 ## 📄 Lizenz
 
-Dieses Projekt steht unter der **MIT-Lizenz** (Platzhalter). Details finden Sie in der Datei [LICENSE.md](LICENSE.md). *(Passen Sie dies bitte an, falls Sie eine andere Lizenz verwenden.)*
+Dieses Projekt steht unter der **MIT-Lizenz**. Details finden Sie in der Datei [LICENSE.md](LICENSE.md).
 
 -----
 
@@ -113,7 +113,7 @@ Dieses Projekt steht unter der **MIT-Lizenz** (Platzhalter). Details finden Sie 
 **CROXY04**
 
   * **GitHub:** [https://github.com/CROXY04](https://www.google.com/search?q=https://github.com/CROXY04)
-  * **E-Mail:** [Ihre E-Mail-Adresse hier einfügen]
+  * **E-Mail:** [-]
 
 -----
 
